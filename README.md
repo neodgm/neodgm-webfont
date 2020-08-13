@@ -9,18 +9,18 @@
 
     ```html
     <!-- Neo둥근모 -->
-    <link rel="stylesheet" href="//cdn.jsdelivr.net/gh/Dalgona/neodgm-webfont@1.41/neodgm/style.css">
+    <link rel="stylesheet" href="//cdn.jsdelivr.net/gh/Dalgona/neodgm-webfont@1.50/neodgm/style.css">
 
     <!-- Neo둥근모 Code -->
-    <link rel="stylesheet" href="//cdn.jsdelivr.net/gh/Dalgona/neodgm-webfont@1.41/neodgm_code/style.css">
+    <link rel="stylesheet" href="//cdn.jsdelivr.net/gh/Dalgona/neodgm-webfont@1.50/neodgm_code/style.css">
     ```
 
     ```css
     /* Neo둥근모 */
-    @import url('//cdn.jsdelivr.net/gh/Dalgona/neodgm-webfont@1.41/neodgm/style.css');
+    @import url('//cdn.jsdelivr.net/gh/Dalgona/neodgm-webfont@1.50/neodgm/style.css');
 
     /* Neo둥근모 Code */
-    @import url('//cdn.jsdelivr.net/gh/Dalgona/neodgm-webfont@1.41/neodgm_code/style.css');
+    @import url('//cdn.jsdelivr.net/gh/Dalgona/neodgm-webfont@1.50/neodgm_code/style.css');
     ```
 
 2. 이제 여러분의 웹 페이지에서 웹 폰트를 사용할 수 있습니다.
