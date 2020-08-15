@@ -1,4 +1,6 @@
-# NeoDGM Web Font Assets
+# NeoDGM Web Font Kit
+
+[![jsDelivr](https://data.jsdelivr.com/v1/package/gh/Dalgona/neodgm-webfont/badge)](https://www.jsdelivr.com/package/gh/Dalgona/neodgm-webfont)
 
 이 Git 저장소는 Neo둥근모와 Neo둥근모 Code를 CDN(Content Delivery Network)을
 통해 손쉽게 웹 폰트로 사용할 수 있게 해 주는 저장소입니다.
