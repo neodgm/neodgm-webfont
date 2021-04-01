@@ -11,18 +11,18 @@
 
     ```html
     <!-- Neo둥근모 -->
-    <link rel="stylesheet" href="//cdn.jsdelivr.net/gh/Dalgona/neodgm-webfont@1.510/neodgm/style.css">
+    <link rel="stylesheet" href="//cdn.jsdelivr.net/gh/Dalgona/neodgm-webfont@1.520/neodgm/style.css">
 
     <!-- Neo둥근모 Code -->
-    <link rel="stylesheet" href="//cdn.jsdelivr.net/gh/Dalgona/neodgm-webfont@1.510/neodgm_code/style.css">
+    <link rel="stylesheet" href="//cdn.jsdelivr.net/gh/Dalgona/neodgm-webfont@1.520/neodgm_code/style.css">
     ```
 
     ```css
     /* Neo둥근모 */
-    @import url('//cdn.jsdelivr.net/gh/Dalgona/neodgm-webfont@1.510/neodgm/style.css');
+    @import url('//cdn.jsdelivr.net/gh/Dalgona/neodgm-webfont@1.520/neodgm/style.css');
 
     /* Neo둥근모 Code */
-    @import url('//cdn.jsdelivr.net/gh/Dalgona/neodgm-webfont@1.510/neodgm_code/style.css');
+    @import url('//cdn.jsdelivr.net/gh/Dalgona/neodgm-webfont@1.520/neodgm_code/style.css');
     ```
 
 2. 이제 여러분의 웹 페이지에서 웹 폰트를 사용할 수 있습니다.
@@ -40,7 +40,7 @@
 
 ## 라이선스
 
-Copyright &copy; 2020, Eunbin Jeong (Dalgona.) &lt;me@dalgona.dev&gt;
+Copyright &copy; 2021, Eunbin Jeong (Dalgona.) &lt;me@dalgona.dev&gt;
 
 이 저장소를 통해 제공되는 모든 글꼴 파일과 웹 폰트 키트에는 SIL Open Font
 License 1.1이 적용됩니다. `LICENSE.txt` 파일에 이 라이선스의 전문이 저장되어
