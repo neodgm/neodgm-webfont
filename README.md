@@ -1,6 +1,6 @@
 # NeoDGM Web Font Kit
 
-[![jsDelivr](https://data.jsdelivr.com/v1/package/gh/Dalgona/neodgm-webfont/badge)](https://www.jsdelivr.com/package/gh/Dalgona/neodgm-webfont)
+[![jsDelivr](https://data.jsdelivr.com/v1/package/gh/neodgm/neodgm-webfont/badge)](https://www.jsdelivr.com/package/gh/neodgm/neodgm-webfont)
 
 이 Git 저장소는 Neo둥근모와 Neo둥근모 Code를 CDN(Content Delivery Network)을
 통해 손쉽게 웹 폰트로 사용할 수 있게 해 주는 저장소입니다.
@@ -11,18 +11,18 @@
 
     ```html
     <!-- Neo둥근모 -->
-    <link rel="stylesheet" href="//cdn.jsdelivr.net/gh/Dalgona/neodgm-webfont@1.521/neodgm/style.css">
+    <link rel="stylesheet" href="//cdn.jsdelivr.net/gh/neodgm/neodgm-webfont@1.521/neodgm/style.css">
 
     <!-- Neo둥근모 Code -->
-    <link rel="stylesheet" href="//cdn.jsdelivr.net/gh/Dalgona/neodgm-webfont@1.521/neodgm_code/style.css">
+    <link rel="stylesheet" href="//cdn.jsdelivr.net/gh/neodgm/neodgm-webfont@1.521/neodgm_code/style.css">
     ```
 
     ```css
     /* Neo둥근모 */
-    @import url('//cdn.jsdelivr.net/gh/Dalgona/neodgm-webfont@1.521/neodgm/style.css');
+    @import url('//cdn.jsdelivr.net/gh/neodgm/neodgm-webfont@1.521/neodgm/style.css');
 
     /* Neo둥근모 Code */
-    @import url('//cdn.jsdelivr.net/gh/Dalgona/neodgm-webfont@1.521/neodgm_code/style.css');
+    @import url('//cdn.jsdelivr.net/gh/neodgm/neodgm-webfont@1.521/neodgm_code/style.css');
     ```
 
 2. 이제 여러분의 웹 페이지에서 웹 폰트를 사용할 수 있습니다.
@@ -36,7 +36,7 @@
 ## 참고 링크
 
 - [Neo둥근모 프로젝트 공식 웹 사이트](https://neodgm.dalgona.dev)
-- [Neo둥근모 GitHub 저장소](https://github.com/Dalgona/neodgm)
+- [Neo둥근모 GitHub 저장소](https://github.com/neodgm/neodgm)
 
 ## 라이선스
 
