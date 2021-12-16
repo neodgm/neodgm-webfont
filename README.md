@@ -11,18 +11,29 @@
 
     ```html
     <!-- Neo둥근모 -->
-    <link rel="stylesheet" href="//cdn.jsdelivr.net/gh/neodgm/neodgm-webfont@1.521/neodgm/style.css">
+    <link rel="stylesheet" href="//cdn.jsdelivr.net/gh/neodgm/neodgm-webfont@1.530/neodgm/style.css">
 
     <!-- Neo둥근모 Code -->
-    <link rel="stylesheet" href="//cdn.jsdelivr.net/gh/neodgm/neodgm-webfont@1.521/neodgm_code/style.css">
+    <link rel="stylesheet" href="//cdn.jsdelivr.net/gh/neodgm/neodgm-webfont@1.530/neodgm_code/style.css">
     ```
 
     ```css
     /* Neo둥근모 */
-    @import url('//cdn.jsdelivr.net/gh/neodgm/neodgm-webfont@1.521/neodgm/style.css');
+    @import url('//cdn.jsdelivr.net/gh/neodgm/neodgm-webfont@1.530/neodgm/style.css');
 
     /* Neo둥근모 Code */
-    @import url('//cdn.jsdelivr.net/gh/neodgm/neodgm-webfont@1.521/neodgm_code/style.css');
+    @import url('//cdn.jsdelivr.net/gh/neodgm/neodgm-webfont@1.530/neodgm_code/style.css');
+    ```
+
+    웹사이트에서 항상 가장 최신 버전의 웹 폰트를 사용하고자 하는 경우, 버전
+    태그 대신 `latest` 태그를 사용하세요.
+
+    ```html
+    <link rel="stylesheet" href="//cdn.jsdelivr.net/gh/neodgm/neodgm-webfont@latest/neodgm/style.css">
+    ```
+
+    ```css
+    @import url('//cdn.jsdelivr.net/gh/neodgm/neodgm-webfont@latest/neodgm/style.css');
     ```
 
 2. 이제 여러분의 웹 페이지에서 웹 폰트를 사용할 수 있습니다.
